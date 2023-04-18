@@ -1,3 +1,2 @@
  This is one.txt file
-kicu bujtasina\
-Ekhono kisu bujtasina
+kicu mathai duktesena
